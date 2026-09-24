@@ -13,13 +13,10 @@
 - Bab el-Mandeb: tanker capacity recovered from −56% (2024) to −46% (H1 2026), then fell to −71% after the blockade.
 - Cape of Good Hope: tanker capacity +51% vs 2023; tanker transits roughly doubled.
 
-![Weekly tanker transits at four oil chokepoints](chart1_weekly_tankers.png)
-
 **Limitations:** AIS-based counts undercount ships sailing "dark"; transits and capacity are not barrels carried; the post-blockade window is 63 days.
 
 **Files:**
 
-- [Market note (PDF)](Rerouted_Barrels_Cekmariova_FINAL.pdf)
 - [Analysis notebook](rerouted_barrels.ipynb)
 - [Results: % change vs baseline](results_pct_change.csv)
 - [Results: daily averages](results_daily_average.csv)
