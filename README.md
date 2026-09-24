@@ -14,6 +14,5 @@
 
 **Limitations:** AIS-based counts undercount ships sailing "dark"; transits and capacity are not barrels carried; the post-blockade window is 63 days.
 
-**Files:** `rerouted_barrels.ipynb` (code), `results_*.csv` (results), `chart*.png` (charts), `Rerouted_Barrels_Cekmariova_FINAL.pdf` (market note).
-
+**Files:** `rerouted_barrels.ipynb chart1_weekly_tankers.png chart2_pct_change.png chart3_tankers_vs_containers.png results_pct_change.csv results_daily_average.csv
 Author: Maria Cekmariova
