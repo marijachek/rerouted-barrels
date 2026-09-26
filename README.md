@@ -22,6 +22,7 @@
 - [Results: daily averages](results_daily_average.csv)
 - Charts: [chart 1](chart1_weekly_tankers.png), [chart 2](chart2_pct_change.png), [chart 3](chart3_tankers_vs_containers.png)
 - [Read the full report (PDF)](rerouted-barrels.pdf)
+
 **Raw data:** not included; download it from [IMF PortWatch](https://portwatch.imf.org/datasets/42132aa4e2fc4d41bdaf9a445f688931_0/about) 
 
 **Author:** Maria Cekmariova
